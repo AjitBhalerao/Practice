@@ -1,0 +1,4 @@
+c:\users\abhalera\documents\visual studio 2010\Projects\Practice\chapter1\bin\Debug\chapter1.exe
+c:\users\abhalera\documents\visual studio 2010\Projects\Practice\chapter1\bin\Debug\chapter1.pdb
+c:\users\abhalera\documents\visual studio 2010\Projects\Practice\chapter1\obj\x86\Debug\chapter1.exe
+c:\users\abhalera\documents\visual studio 2010\Projects\Practice\chapter1\obj\x86\Debug\chapter1.pdb

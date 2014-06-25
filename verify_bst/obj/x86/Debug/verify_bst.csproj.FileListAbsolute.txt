@@ -1,0 +1,4 @@
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\verify_bst\bin\Debug\verify_bst.exe
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\verify_bst\bin\Debug\verify_bst.pdb
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\verify_bst\obj\x86\Debug\verify_bst.exe
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\verify_bst\obj\x86\Debug\verify_bst.pdb

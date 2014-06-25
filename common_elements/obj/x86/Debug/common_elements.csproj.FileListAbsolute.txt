@@ -1,0 +1,4 @@
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\common_elements\bin\Debug\common_elements.exe
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\common_elements\bin\Debug\common_elements.pdb
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\common_elements\obj\x86\Debug\common_elements.exe
+C:\Users\abhalera\Documents\Visual Studio 2010\Projects\Practice\common_elements\obj\x86\Debug\common_elements.pdb
